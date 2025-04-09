@@ -72,7 +72,7 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:vickyjmh5@gmail.com">
+  <a href="mailto:vickyjmh5@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/vicky-369194221/" target="_blank">
